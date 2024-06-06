@@ -5,12 +5,19 @@
 # Features
 
 🃏 Flip and match pairs of cards
+
 🎨 Animated card flipping
+
 🚫 Shake animation for non-matching pairs
+
 📱 Responsive design
-Technologies Used
+
+# Technologies Used
+
 🌐 HTML
+
 🎨 CSS
+
 📝 JavaScript
 
 # How to Play

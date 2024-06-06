@@ -22,8 +22,11 @@
 
 # How to Play
 🎈 Click on a card to flip it.
+
 🎈 Click on another card to try and find the matching pair.
+
 🎉 If the cards match, they will remain flipped. If they do not match, they will shake and flip back.
+
 🏆 Continue until all pairs are matched.
 
 ### Expected Outcome 
